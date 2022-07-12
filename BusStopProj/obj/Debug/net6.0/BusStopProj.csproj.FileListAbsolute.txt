@@ -1,0 +1,15 @@
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/bin/Debug/net6.0/BusStopProj
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/bin/Debug/net6.0/BusStopProj.deps.json
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/bin/Debug/net6.0/BusStopProj.runtimeconfig.json
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/bin/Debug/net6.0/BusStopProj.dll
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/bin/Debug/net6.0/BusStopProj.pdb
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.csproj.AssemblyReference.cache
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.AssemblyInfoInputs.cache
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.AssemblyInfo.cs
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.csproj.CoreCompileInputs.cache
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.dll
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/refint/BusStopProj.dll
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.pdb
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/BusStopProj.genruntimeconfig.cache
+/Volumes/Data/Projects/Polar/BusStop/BusStop/BusStopProj/obj/Debug/net6.0/ref/BusStopProj.dll
